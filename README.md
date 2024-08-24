@@ -1,6 +1,6 @@
 # Introduction
 
-This is a simple power DIN connector USB-C replacement for Atari 8-bit computers with PowerDelivery capability.
+This is a simple power DIN connector USB-C replacement for Atari 8-bit computers, with PowerDelivery capability.
 
 ![mounted](images/mounted.jpg)
 ![top](images/top.jpg)
@@ -13,6 +13,7 @@ This is a simple power DIN connector USB-C replacement for Atari 8-bit computers
 
 * PCB
 * USB-C connector
+* Jumper over fuse
 
 This configuration will work with dumb chargers that do not care about PD. Should work also with USB-C<>USB-A cables.
 
@@ -22,6 +23,7 @@ This configuration will work with dumb chargers that do not care about PD. Shoul
 * USB-C connector
 * IP2721
 * 5.1kOhm resistors
+* Jumper over fuse
 
 This configuration will work with all PowerDelivery chargers, via USB-C<>UAB-C cables. Should work with power banks, phone chargers, laptop chargers, etc.
 
